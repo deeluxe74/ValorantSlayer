@@ -1,0 +1,22 @@
+{
+    "name": "ValorantSlayer",
+    "short_name": "Slayer",
+    "lang": "fr",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#FF4654",
+    "background_color": "#FF4654",
+    "icons": [
+        {
+            "src": "./logox192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./logox512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+
+    ]
+}
